@@ -4,16 +4,16 @@ A console-based smart cash management application developed as my first semester
 
 ## 🚀 Features
 
-- 🔐 User Authentication (Signup & Login)
-- 📱 Phone Number Validation (11-digit)
-- 🔑 Secure Password Input (hidden with *)
-- 💵 Deposit Money
-- 💸 Send Money to Other Users
-- 🚫 Prevent Self-Transfer
-- 📊 Check Account Balance
-- 📜 Transaction History with Timestamps
-- 💾 File Handling (Data Persistence)
-- 🔢 Captcha Verification during Signup
+-  User Authentication (Signup & Login)
+-  Phone Number Validation (11-digit)
+-  Secure Password Input (hidden with *)
+-  Deposit Money
+-  Send Money to Other Users
+-  Prevent Self-Transfer
+-  Check Account Balance
+-  Transaction History with Timestamps
+-  File Handling (Data Persistence)
+-  Captcha Verification during Signup
 
 ## 🛠️ Technologies Used
 
