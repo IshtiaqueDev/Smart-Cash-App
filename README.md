@@ -1,6 +1,6 @@
 # 💰 Smart Cash App (Console-Based)
 
-A console-based smart cash management application developed as my first semester final project. This app allows users to manage their finances by tracking balance, sending money, and viewing transaction history.
+A console-based smart cash management application developed as my first semester final project.This app allows users to manage their finances by tracking balance, sending money, and viewing transaction history.
 
 ## 🚀 Features
 
